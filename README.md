@@ -1,2 +1,2 @@
 # Hello_Word
-I am trying to learn to use the github
+Now I am making somes changes on file and analising the behave this system 
